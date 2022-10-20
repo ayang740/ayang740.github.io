@@ -11433,3 +11433,13 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+.project-div{
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 2%;
+}
+
+.project-img{
+  height: 30%;
+  width: 50%;
+}
